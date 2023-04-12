@@ -38,4 +38,4 @@ Each person should pay: $19.93
 
 # Solution
 
-[https://replit.com/@diadem/tip-calculator-start?v=1](https://replit.com/@diadem/tip-calculator-start?v=1)
+[https://replit.com/@adaeze-nnamdi/tip-calculator-start](https://replit.com/@adaeze-nnamdi/tip-calculator-start)
